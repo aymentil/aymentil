@@ -1,6 +1,6 @@
 # Hello, I'm Aymen Tilfani 👋
 
-I'm a junior full stack developer at Sense4data, passionate about building web applications and solving real-world problems through technology.
+I'm a junior backend developer at Sense4data, passionate about building web applications and solving real-world problems through technology.
 
 ## About Me
 
@@ -12,6 +12,7 @@ I'm a junior full stack developer at Sense4data, passionate about building web a
 - Frontend: [HTML, CSS, TypeScript, JavaScript, React]
 - Backend: [FastAPI, Django]
 - Database: [PostgreSQL]
+- DevOps: [Docker, Kubernetes, Gitalb CI/CD]
 
 ## Let's Connect
 
