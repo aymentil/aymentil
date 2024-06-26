@@ -12,7 +12,7 @@ I'm a junior backend developer at Sense4data, passionate about building web appl
 - Frontend: [HTML, CSS, TypeScript, JavaScript, React]
 - Backend: [FastAPI, Django]
 - Database: [PostgreSQL]
-- DevOps: [Docker, Kubernetes, Gitalb CI/CD]
+- DevOps: [Docker, Kubernetes, Gitlab CI/CD]
 
 ## Let's Connect
 
