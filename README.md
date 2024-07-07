@@ -9,8 +9,7 @@ I'm a junior backend developer at Sense4data, passionate about building web appl
 
 ## Skills
 
-- Frontend: [HTML, CSS, TypeScript, JavaScript, React]
-- Backend: [FastAPI, Django]
+- Backend: [FastAPI, Django, Spring Boot]
 - Database: [PostgreSQL]
 - DevOps: [Docker, Kubernetes, Gitlab CI/CD]
 
