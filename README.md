@@ -1,6 +1,6 @@
 # Hello, I'm Aymen Tilfani 👋
 
-I'm a junior backend developer at Sense4data, passionate about building web applications and solving real-world problems through technology.
+I'm a junior backend developer, passionate about building web applications and solving real-world problems through technology.
 
 ## About Me
 
