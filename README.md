@@ -1,6 +1,6 @@
 # Hello, I'm Aymen Tilfani 👋
 
-I'm a junior backend developer, passionate about building web applications and solving real-world problems through technology.
+I'm a backend developer, passionate about building web applications and solving real-world problems through technology.
 
 ## About Me
 
@@ -9,8 +9,9 @@ I'm a junior backend developer, passionate about building web applications and s
 
 ## Skills
 
-- Backend: [FastAPI, Django, Spring Boot]
-- Database: [PostgreSQL]
+- Languages: [Python, Go, Java].
+- Frameworks: [FastAPI, Django, Spring Boot]
+- Database: [PostgreSQL, MongoDB, CosmosDB, Elasticsearch]
 - DevOps: [Docker, Kubernetes, Gitlab CI/CD]
 
 ## Let's Connect
